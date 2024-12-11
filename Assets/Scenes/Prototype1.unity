@@ -1918,48 +1918,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 566400911}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1075150193
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3861555276e1a07489d3c0971e091e46, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Material: {fileID: 0}
-  Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  NameTextureParameter_baseColorTexture: _MainTex
-  NameTextureParameter_diffuseTexture: _MainTex
-  NameTextureParameter_metallicRoughnessTexture: _MetallicGlossMap
-  NameTextureParameter_specularGlossiness: _Specular
-  NameTextureParameter_normalTexture: _BumpMap
-  NameTextureParameter_occlusionTexture: _OcclusionMap
-  NameTextureParameter_emissiveTexture: _EmissiveMap
-  NameTextureParameter_flowTexture: _FlowMap
-  NameColorParameter_BaseColorFactor: _Color
-  UseColorParameter_BaseColorFactor: 0
-  NameFloatParameter_MetallicFactor: _Metallic
-  UseFloatParameter_MetallicFactor: 0
-  NameFloatParameter_RoughnessFactor: _Roughness
-  UseFloatParameter_RoughnessFactor: 0
-  NameColorParameter_DiffuseFactor: _Diffuse
-  UseColorParameter_DiffuseFactor: 0
-  NameTextureParameter_SSSCurvatureTexture: _SSSCurvatureLUT
-  Texture_SSSCurvatureTexture: {fileID: 0}
-  NameTextureParameter_SSSZHTexture: _SSSZHLUT
-  Texture_SSSZHTexture: {fileID: 0}
-  KeywordsEnumerations: []
-  KeywordsToEnable: []
-  NameFloatConstants: []
-  ValueFloatConstants: []
-  ExtensionConfiguration:
-    _extensionNames: []
-    _entryNamesPerExtension: []
-    _replacementNamesPerExtension: []
 --- !u!1 &1191033796
 GameObject:
   m_ObjectHideFlags: 0
@@ -2557,6 +2515,48 @@ MonoBehaviour:
   installationRoutineCheckpoint:
     _installationRoutineId: 
     _installationVariants: []
+--- !u!114 &1363711609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3861555276e1a07489d3c0971e091e46, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Material: {fileID: 0}
+  Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  NameTextureParameter_baseColorTexture: _MainTex
+  NameTextureParameter_diffuseTexture: _MainTex
+  NameTextureParameter_metallicRoughnessTexture: _MetallicGlossMap
+  NameTextureParameter_specularGlossiness: _Specular
+  NameTextureParameter_normalTexture: _BumpMap
+  NameTextureParameter_occlusionTexture: _OcclusionMap
+  NameTextureParameter_emissiveTexture: _EmissiveMap
+  NameTextureParameter_flowTexture: _FlowMap
+  NameColorParameter_BaseColorFactor: _Color
+  UseColorParameter_BaseColorFactor: 0
+  NameFloatParameter_MetallicFactor: _Metallic
+  UseFloatParameter_MetallicFactor: 0
+  NameFloatParameter_RoughnessFactor: _Roughness
+  UseFloatParameter_RoughnessFactor: 0
+  NameColorParameter_DiffuseFactor: _Diffuse
+  UseColorParameter_DiffuseFactor: 0
+  NameTextureParameter_SSSCurvatureTexture: _SSSCurvatureLUT
+  Texture_SSSCurvatureTexture: {fileID: 0}
+  NameTextureParameter_SSSZHTexture: _SSSZHLUT
+  Texture_SSSZHTexture: {fileID: 0}
+  KeywordsEnumerations: []
+  KeywordsToEnable: []
+  NameFloatConstants: []
+  ValueFloatConstants: []
+  ExtensionConfiguration:
+    _extensionNames: []
+    _entryNamesPerExtension: []
+    _replacementNamesPerExtension: []
 --- !u!1 &1387654005
 GameObject:
   m_ObjectHideFlags: 0
@@ -2788,18 +2788,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1453972948}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1453972950 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 7410389675181900697, guid: e41dda0e6564ae74f8d1d1e1a555975b,
-    type: 3}
-  m_PrefabInstance: {fileID: 1453972948}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 925ef87c5bafc37469a2f7ec825dee4b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1474638413
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7795,48 +7783,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9af9ea683544b184083cef283557012d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1863337013
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3861555276e1a07489d3c0971e091e46, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Material: {fileID: 0}
-  Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  NameTextureParameter_baseColorTexture: _MainTex
-  NameTextureParameter_diffuseTexture: _MainTex
-  NameTextureParameter_metallicRoughnessTexture: _MetallicGlossMap
-  NameTextureParameter_specularGlossiness: _Specular
-  NameTextureParameter_normalTexture: _BumpMap
-  NameTextureParameter_occlusionTexture: _OcclusionMap
-  NameTextureParameter_emissiveTexture: _EmissiveMap
-  NameTextureParameter_flowTexture: _FlowMap
-  NameColorParameter_BaseColorFactor: _Color
-  UseColorParameter_BaseColorFactor: 0
-  NameFloatParameter_MetallicFactor: _Metallic
-  UseFloatParameter_MetallicFactor: 0
-  NameFloatParameter_RoughnessFactor: _Roughness
-  UseFloatParameter_RoughnessFactor: 0
-  NameColorParameter_DiffuseFactor: _Diffuse
-  UseColorParameter_DiffuseFactor: 0
-  NameTextureParameter_SSSCurvatureTexture: _SSSCurvatureLUT
-  Texture_SSSCurvatureTexture: {fileID: 0}
-  NameTextureParameter_SSSZHTexture: _SSSZHLUT
-  Texture_SSSZHTexture: {fileID: 0}
-  KeywordsEnumerations: []
-  KeywordsToEnable: []
-  NameFloatConstants: []
-  ValueFloatConstants: []
-  ExtensionConfiguration:
-    _extensionNames: []
-    _entryNamesPerExtension: []
-    _replacementNamesPerExtension: []
 --- !u!1001 &1883031866
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7909,6 +7855,48 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1889623475}
   m_SourcePrefab: {fileID: 100100000, guid: d0377a811c2a95841ba015ae0b2c8d45, type: 3}
+--- !u!114 &1883778780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3861555276e1a07489d3c0971e091e46, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Material: {fileID: 0}
+  Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  NameTextureParameter_baseColorTexture: _MainTex
+  NameTextureParameter_diffuseTexture: _MainTex
+  NameTextureParameter_metallicRoughnessTexture: _MetallicGlossMap
+  NameTextureParameter_specularGlossiness: _Specular
+  NameTextureParameter_normalTexture: _BumpMap
+  NameTextureParameter_occlusionTexture: _OcclusionMap
+  NameTextureParameter_emissiveTexture: _EmissiveMap
+  NameTextureParameter_flowTexture: _FlowMap
+  NameColorParameter_BaseColorFactor: _Color
+  UseColorParameter_BaseColorFactor: 0
+  NameFloatParameter_MetallicFactor: _Metallic
+  UseFloatParameter_MetallicFactor: 0
+  NameFloatParameter_RoughnessFactor: _Roughness
+  UseFloatParameter_RoughnessFactor: 0
+  NameColorParameter_DiffuseFactor: _Diffuse
+  UseColorParameter_DiffuseFactor: 0
+  NameTextureParameter_SSSCurvatureTexture: _SSSCurvatureLUT
+  Texture_SSSCurvatureTexture: {fileID: 0}
+  NameTextureParameter_SSSZHTexture: _SSSZHLUT
+  Texture_SSSZHTexture: {fileID: 0}
+  KeywordsEnumerations: []
+  KeywordsToEnable: []
+  NameFloatConstants: []
+  ValueFloatConstants: []
+  ExtensionConfiguration:
+    _extensionNames: []
+    _entryNamesPerExtension: []
+    _replacementNamesPerExtension: []
 --- !u!1 &1889623472 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5848076533691757917, guid: d0377a811c2a95841ba015ae0b2c8d45,
@@ -8291,11 +8279,32 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ocean
       objectReference: {fileID: 0}
+    - target: {fileID: 878985111723463544, guid: 3bc14f0acef45dc409ab8d684879ec19,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1881386387637873453, guid: 3bc14f0acef45dc409ab8d684879ec19,
+        type: 3}
+      propertyPath: waveLength
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1881386387637873453, guid: 3bc14f0acef45dc409ab8d684879ec19,
+        type: 3}
+      propertyPath: waveFrequency
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3bc14f0acef45dc409ab8d684879ec19, type: 3}
+--- !u!1 &2024635073 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 878985111723463544, guid: 3bc14f0acef45dc409ab8d684879ec19,
+    type: 3}
+  m_PrefabInstance: {fileID: 2024635072}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &250979947379919404
 GameObject:
   m_ObjectHideFlags: 0
@@ -11590,17 +11599,17 @@ MonoBehaviour:
   _whenSelected:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1453972950}
-        m_TargetAssemblyTypeName: Oculus.Interaction.AudioTrigger, Oculus.Interaction.Samples
-        m_MethodName: PlayAudio
-        m_Mode: 1
+      - m_Target: {fileID: 2024635073}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
   _whenUnselected:
     m_PersistentCalls:
