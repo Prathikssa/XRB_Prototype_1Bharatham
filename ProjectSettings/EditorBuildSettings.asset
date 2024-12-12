@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: "Assets/Samples/Meta XR Interaction \u200BSDK/71.0.0/Example Scenes/PoseExamples.unity"
-    guid: 4fe358b21fe17764db89a9ab9f202327
+    path: Assets/Scenes/Prototype1 1.unity
+    guid: b6999eaf68e386f43a6053e873673b9d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c2d962fab97cea446b978a21f836fc34,
       type: 2}
