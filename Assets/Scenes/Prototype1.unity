@@ -9124,7 +9124,7 @@ GameObject:
   - component: {fileID: 1677621211}
   - component: {fileID: 1677621210}
   m_Layer: 0
-  m_Name: Audio Source
+  m_Name: Carnatic_AudioSource
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9140,7 +9140,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 0fda8275d2457524c826230ce4148618, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 1ddacfb07ae0b934e9199fac6a42b1dc, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
